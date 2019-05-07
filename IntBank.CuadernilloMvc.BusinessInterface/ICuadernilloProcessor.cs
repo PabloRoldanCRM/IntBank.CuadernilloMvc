@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace IntBank.CuadernilloMvc.BusinessInterface
 {
-    public class Class1
+    public interface ICuadernilloProcessor
     {
+        //TODO definir Processor Businnes Logic
     }
 }
