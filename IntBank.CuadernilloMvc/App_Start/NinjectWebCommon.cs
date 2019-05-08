@@ -1,7 +1,7 @@
-[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(IntBank.CuadernilloMvc.App_Start.NinjectWebCommon), "Start")]
-[assembly: WebActivatorEx.ApplicationShutdownMethodAttribute(typeof(IntBank.CuadernilloMvc.App_Start.NinjectWebCommon), "Stop")]
+[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(IntBank.Reportes.App_Start.NinjectWebCommon), "Start")]
+[assembly: WebActivatorEx.ApplicationShutdownMethodAttribute(typeof(IntBank.Reportes.App_Start.NinjectWebCommon), "Stop")]
 
-namespace IntBank.CuadernilloMvc.App_Start
+namespace IntBank.Reportes.App_Start
 {
     using System;
     using System.Web;

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntBank.CuadernilloMvc.DataInterface
+namespace IntBank.Reportes.DataInterface
 {
     public interface ICuadernilloRepository
     {

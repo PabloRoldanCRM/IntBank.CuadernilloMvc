@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5DEDD8E-7E9C-44DE-9176-185732B4BF56}</ProjectGuid>
+    <ProjectGuid>{81A44184-598E-4169-AC08-5E67482B5F95}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IntBank.CuadernilloMvc.DataInterface</RootNamespace>
-    <AssemblyName>IntBank.CuadernilloMvc.DataInterface</AssemblyName>
+    <RootNamespace>IntBank.Reportes.BusinessTypes</RootNamespace>
+    <AssemblyName>IntBank.Reportes.BusinessTypes</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ICuadernilloRepository.cs" />
+    <Compile Include="Cuadernillo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

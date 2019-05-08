@@ -7,8 +7,8 @@
     <ProjectGuid>{9F7427A1-61CB-4876-9390-973FDEE61B96}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IntBank.CuadernilloMvc.DataLayer</RootNamespace>
-    <AssemblyName>IntBank.CuadernilloMvc.DataLayer</AssemblyName>
+    <RootNamespace>IntBank.Reportes.DataLayer</RootNamespace>
+    <AssemblyName>IntBank.Reportes.DataLayer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -92,9 +92,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\IntBank.CuadernilloMvc.DataInterface\IntBank.CuadernilloMvc.DataInterface.csproj">
+    <ProjectReference Include="..\IntBank.CuadernilloMvc.DataInterface\IntBank.Reportes.DataInterface.csproj">
       <Project>{F5DEDD8E-7E9C-44DE-9176-185732B4BF56}</Project>
-      <Name>IntBank.CuadernilloMvc.DataInterface</Name>
+      <Name>IntBank.Reportes.DataInterface</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntBank.CuadernilloMvc.BusinessInterface
+namespace IntBank.Reportes.BusinessInterface
 {
     public interface ICuadernilloProcessor
     {

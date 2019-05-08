@@ -1,11 +1,11 @@
-﻿using IntBank.CuadernilloMvc.BusinessInterface;
+﻿using IntBank.Reportes.BusinessInterface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntBank.CuadernilloMvc.BusinessLayer
+namespace IntBank.Reportes.BusinessLayer
 {
     public class CuadernilloProcessor : ICuadernilloProcessor
     {

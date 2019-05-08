@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace IntBank.CuadernilloMvc.UT
+namespace IntBank.Reportes.UT
 {
     [TestClass]
     public class UnitTest1

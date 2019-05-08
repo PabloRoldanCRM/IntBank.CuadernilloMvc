@@ -1,11 +1,11 @@
-﻿using IntBank.CuadernilloMvc.DataInterface;
+﻿using IntBank.Reportes.DataInterface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntBank.CuadernilloMvc.DataLayer
+namespace IntBank.Reportes.DataLayer
 {
     public class CiadernilloRepository : ICuadernilloRepository
     {

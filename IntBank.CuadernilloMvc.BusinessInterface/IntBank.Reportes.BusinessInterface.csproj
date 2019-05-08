@@ -7,8 +7,8 @@
     <ProjectGuid>{82B50054-1D31-412B-819B-234642A37250}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IntBank.CuadernilloMvc.BusinessInterface</RootNamespace>
-    <AssemblyName>IntBank.CuadernilloMvc.BusinessInterface</AssemblyName>
+    <RootNamespace>IntBank.Reportes.BusinessInterface</RootNamespace>
+    <AssemblyName>IntBank.Reportes.BusinessInterface</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

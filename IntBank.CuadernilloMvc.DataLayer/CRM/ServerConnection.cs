@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Configuration;
 
-namespace IntBank.CuadernilloMvc.DataLayer.CRM
+namespace IntBank.Reportes.DataLayer.CRM
 {
 
     public class ServerConnection : IDisposable

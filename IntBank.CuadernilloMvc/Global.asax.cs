@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace IntBank.CuadernilloMvc
+namespace IntBank.Reportes
 {
     public class MvcApplication : System.Web.HttpApplication
     {

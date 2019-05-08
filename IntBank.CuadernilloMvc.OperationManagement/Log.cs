@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntBank.CuadernilloMvc.OperationManagement
+namespace IntBank.Reportes.OperationManagement
 {
     public class Log
     {

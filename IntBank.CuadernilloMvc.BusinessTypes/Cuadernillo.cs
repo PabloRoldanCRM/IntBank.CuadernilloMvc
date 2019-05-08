@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntBank.CuadernilloMvc.BusinessTypes
+namespace IntBank.Reportes.BusinessTypes
 {
     public class Cuadernillo
     {
