@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes", "IntBank.CuadernilloMvc\IntBank.Reportes.csproj", "{6B3A6C5C-522E-4F67-A091-D4ABF68854A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes", "IntBank.Reportes\IntBank.Reportes.csproj", "{6B3A6C5C-522E-4F67-A091-D4ABF68854A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.DataLayer", "IntBank.CuadernilloMvc.DataLayer\IntBank.Reportes.DataLayer.csproj", "{9F7427A1-61CB-4876-9390-973FDEE61B96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.DataLayer", "IntBank.Reportes.DataLayer\IntBank.Reportes.DataLayer.csproj", "{9F7427A1-61CB-4876-9390-973FDEE61B96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.DataInterface", "IntBank.CuadernilloMvc.DataInterface\IntBank.Reportes.DataInterface.csproj", "{F5DEDD8E-7E9C-44DE-9176-185732B4BF56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.DataInterface", "IntBank.Reportes.DataInterface\IntBank.Reportes.DataInterface.csproj", "{F5DEDD8E-7E9C-44DE-9176-185732B4BF56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.BusinessTypes", "IntBank.CuadernilloMvc.BusinessTypes\IntBank.Reportes.BusinessTypes.csproj", "{81A44184-598E-4169-AC08-5E67482B5F95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.BusinessTypes", "IntBank.Reportes.BusinessTypes\IntBank.Reportes.BusinessTypes.csproj", "{81A44184-598E-4169-AC08-5E67482B5F95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.BusinessLayer", "IntBank.CuadernilloMvc.BusinessLayer\IntBank.Reportes.BusinessLayer.csproj", "{5111D30E-1CF0-4ACE-868A-9A1BE931B6C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.BusinessLayer", "IntBank.Reportes.BusinessLayer\IntBank.Reportes.BusinessLayer.csproj", "{5111D30E-1CF0-4ACE-868A-9A1BE931B6C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.BusinessInterface", "IntBank.CuadernilloMvc.BusinessInterface\IntBank.Reportes.BusinessInterface.csproj", "{82B50054-1D31-412B-819B-234642A37250}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.BusinessInterface", "IntBank.Reportes.BusinessInterface\IntBank.Reportes.BusinessInterface.csproj", "{82B50054-1D31-412B-819B-234642A37250}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.OperationManagement", "IntBank.CuadernilloMvc.OperationManagement\IntBank.Reportes.OperationManagement.csproj", "{5C095F53-BC5A-4C29-9991-5287EB1D0490}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.OperationManagement", "IntBank.Reportes.OperationManagement\IntBank.Reportes.OperationManagement.csproj", "{5C095F53-BC5A-4C29-9991-5287EB1D0490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.UT", "IntBank.CuadernilloMvc.UT\IntBank.Reportes.UT.csproj", "{AF6A3465-1CBB-413B-80F6-955A774415C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntBank.Reportes.UT", "IntBank.Reportes.UT\IntBank.Reportes.UT.csproj", "{AF6A3465-1CBB-413B-80F6-955A774415C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
